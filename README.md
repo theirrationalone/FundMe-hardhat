@@ -72,3 +72,9 @@ npx hardhat
 
 <br />
 <br />
+<br />
+<br />
+
+### <p style="font-weight: bolder; color: #cc0000;">Whilst interacting with Project you'll probably get the idea how a smart contract works, how current scripts are working and how easy working with smart contract with hardhat support is and why i write these scripts in such a way.</p>
+
+# <h1 style="color: #129900;">THANK YOU! <span style="font-weight: bolder; font-size: 48px; color: #1d0ed1">:)</span> <span style="font-size: 52px;">🏴‍☠️</span></h1>
