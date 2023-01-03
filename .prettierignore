@@ -1,0 +1,11 @@
+artifacts
+cache
+deployments
+node_modules
+.env
+.gitignore
+.solhint.json
+package-lock.json
+package.json
+coverage.json
+coverage
