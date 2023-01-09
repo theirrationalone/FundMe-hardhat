@@ -41,7 +41,7 @@ if you don't have coinmarketcap api key then Go [here](https://pro.coinmarketcap
 # Copy code below, Go to Your Project, Open Terminal then paste it into terminal.
 
 ```shell
-npm install
+npm install --force
 ```
 
 <br />
